@@ -9,8 +9,6 @@ while True:
     client, addr = s.accept()
 
     data="200"
-    #kirim data
+    #kirim data code
     client.send(data.encode())
     client.close()
-
-    
