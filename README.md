@@ -19,3 +19,10 @@ d) s.accept() digunakan untuk menerima koneksi klien TCP
 2. Ikat socket ke port
 3. Mulai menerima koneksi pada socket
 
+**menerima paket data**
+1. Pastikan python telah terinstal pada system
+2. Jalankan code menerima.py dengan perintah python menerima.py 
+![Alt text](/screenshoot/menjalankan_code_menerima_py.png?raw=true)
+3. Lakukan request terhadap socket yang sudah diatur dengan mengakses localhost:port (localhost:10013) pada browser
+4. Informasi terkait request akan muncul pada shell
+![Alt text](/screenshoot/setrelah_melakukan_request.png?raw=true)
