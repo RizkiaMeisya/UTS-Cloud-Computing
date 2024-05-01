@@ -14,7 +14,7 @@ c) s.listen() digunakan untuk mengatur dan memulai pendengar TCP
 
 d) s.accept() digunakan untuk menerima koneksi klien TCP
 
-cara dalam membuat 
+**cara dalam membuat** 
 1. buat socket dengan cara mengimpor metode socket kelas socket (import socket)
 2. Ikat socket ke port
 3. Mulai menerima koneksi pada socket
